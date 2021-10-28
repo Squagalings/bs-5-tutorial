@@ -1,0 +1,22 @@
+{
+  "name": "bs-5-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Squagalings/bs-5-tutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Squagalings/bs-5-tutorial/issues"
+  },
+  "homepage": "https://github.com/Squagalings/bs-5-tutorial#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
+}
